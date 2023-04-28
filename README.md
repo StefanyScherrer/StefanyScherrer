@@ -14,7 +14,7 @@ Estou estudando programação desde março de 2021, com foco em desenvolvimento 
 
 ## Tecnologias e Ferramentas
 
-https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white 
+https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white 
 ## GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=StefanyScherrer&show_icons=true&theme=radical)
