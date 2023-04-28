@@ -4,13 +4,13 @@ Olá, meu nome é Stefany Scherrer e sou uma desenvolvedora junior apaixonada po
 
 ## Sobre mim
 
-Desde muito jovem, desenvolvi um grande interesse em aprender sobre diversos assuntos. Estou sempre buscando novas formas de aprimorar meus conhecimentos, sejam eles relacionados à programação ou não.
+Sou formada em Direito e sempre tive uma paixão por tecnologia. Enquanto estudava na Universidade Federal do Espírito Santo, fundei uma liga de tecnologia e e inovação e, por meio dela, organizava hackathons em eventos. Foi a partir dessas experiências que decidi me aprofundar em programação.
 
-Também tenho experiência em liderança, tendo atuado como supervisora de uma equipe de marketing e vendas e como product manager em uma startup. Essas experiências me ajudaram a desenvolver habilidades de gestão de projetos e liderança de equipes.
+Além de programação,também tenho experiência como supervisora de uma equipe de marketing e vendas, como product manager e como professora de teatro, além de outras áreas. Essas experiências me ajudaram a desenvolver habilidades de gestão de projetos, comunicação, colaboração em equipe e liderança.
 
 ## Minha jornada em programação
 
-Estou estudando programação desde março de 2021, com foco em desenvolvimento web e mobile. Meus conhecimentos incluem HTML, CSS, JavaScript e React, e estou sempre buscando aprender mais.
+Estou estudando programação desde março de 2021, com foco em desenvolvimento web e mobile. Amo estudar sobre tecnologia e diversos outros assuntos, por isto estou sempre buscando aprender mais.
 
 ## Tecnologias e Ferramentas
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
@@ -26,6 +26,7 @@ Estou estudando programação desde março de 2021, com foco em desenvolvimento 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=StefanyScherrer&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanyScherrer&size_weight=0.5&count_weight=0.5)](https://github.com/StefanyScherrer/github-readme-stats)
+
 ## Idiomas
 
 - Português (nativo)
@@ -33,7 +34,7 @@ Estou estudando programação desde março de 2021, com foco em desenvolvimento 
 
 ## Contato
 
-Se você gostou do que viu aqui, sinta-se à vontade para entrar em contato comigo. Vamos criar algo incrível juntos!
+Se você gostou do que viu aqui ou ficou com alguma dúvida, sinta-se à vontade para entrar em contato comigo. Vamos criar algo incrível juntos!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefany-scherrer/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5527996926990)
