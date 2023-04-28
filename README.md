@@ -24,6 +24,7 @@ Estou estudando programação desde março de 2021, com foco em desenvolvimento 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=StefanyScherrer&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanyScherrer&langs_count=8)](https://github.com/StefanyScherrer/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanyScherrer)](https://github.com/StefanyScherrer/github-readme-stats)
 ## Idiomas
 
 - Português (nativo)
