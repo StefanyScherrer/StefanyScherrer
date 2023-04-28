@@ -1,26 +1,37 @@
-Olá, meu nome é [seu nome] e eu sou uma desenvolvedora junior apaixonada por tecnologia. Meu objetivo é construir soluções inovadoras e criar experiências únicas para os usuários.
+# Bem-vindo ao meu perfil do GitHub!
 
-Sobre mim
-Eu sou formada em Direito pela [nome da universidade] e sempre tive uma paixão por tecnologia. Enquanto estudava na Universidade Federal do Espírito Santo, fundei uma liga de tecnologia e organizava hackathons para alunos. Foi a partir dessas experiências que decidi me aprofundar em programação.
+Olá, meu nome é [seu nome] e sou uma desenvolvedora junior apaixonada por tecnologia. Meu objetivo é construir soluções inovadoras e criar experiências únicas para os usuários.
 
-Além de programação, eu tenho uma ampla experiência em ensino, tendo trabalhado como professora de teatro e história. Essas experiências me ajudaram a desenvolver habilidades de comunicação e colaboração em equipe.
+## Sobre mim
 
-Minha jornada em programação
-Desde março de 2021, venho estudando programação com foco em desenvolvimento web e mobile. Meus conhecimentos incluem HTML, CSS, JavaScript e React. Também estudei lógica de programação, o que me deu uma sólida compreensão dos fundamentos da programação.
+Desde muito jovem, desenvolvi um grande interesse em aprender sobre diversos assuntos. Estou sempre buscando novas formas de aprimorar meus conhecimentos, sejam eles relacionados à programação ou não.
 
-Estou sempre buscando aprender mais e estou aberta a desafios que me permitam crescer e me desenvolver como profissional.
+Também tenho experiência em liderança, tendo atuado como supervisora de uma equipe de marketing e vendas e como product manager em uma startup. Essas experiências me ajudaram a desenvolver habilidades de gestão de projetos e liderança de equipes.
 
-Habilidades
-HTML
-CSS
-JavaScript
-React
-Lógica de Programação
-Idiomas
-Português (nativo)
-Inglês (avançado)
-Contato
+## Minha jornada em programação
+
+Estou estudando programação desde março de 2021, com foco em desenvolvimento web e mobile. Meus conhecimentos incluem HTML, CSS, JavaScript e React, e estou sempre buscando aprender mais.
+
+## Habilidades
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Gestão de Projetos
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=[StefanyScherrer]&show_icons=true&theme=radical)
+
+## Idiomas
+
+- Português (nativo)
+- Inglês (avançado)
+
+## Contato
+
 Se você gostou do que viu aqui, sinta-se à vontade para entrar em contato comigo. Vamos criar algo incrível juntos!
 
-LinkedIn: [seu perfil do LinkedIn]
-Email: [seu endereço de email]
+- LinkedIn: [seu perfil do LinkedIn]
+- Email: [seu endereço de email]
