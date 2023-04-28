@@ -1,22 +1,21 @@
-Olá, meu nome é [seu nome] e sou uma desenvolvedora junior apaixonada por tecnologia. Meu objetivo é construir soluções inovadoras e criar experiências únicas para os usuários.
+Olá, meu nome é [seu nome] e eu sou uma desenvolvedora junior apaixonada por tecnologia. Meu objetivo é construir soluções inovadoras e criar experiências únicas para os usuários.
 
 Sobre mim
-Desde muito jovem, desenvolvi um grande interesse em aprender sobre diversos assuntos. Estou sempre buscando novas formas de aprimorar meus conhecimentos, sejam eles relacionados à programação ou não.
+Eu sou formada em Direito pela [nome da universidade] e sempre tive uma paixão por tecnologia. Enquanto estudava na Universidade Federal do Espírito Santo, fundei uma liga de tecnologia e organizava hackathons para alunos. Foi a partir dessas experiências que decidi me aprofundar em programação.
 
-Também tenho experiência em liderança, tendo atuado como supervisora de uma equipe de marketing e vendas e como product manager em uma startup. Essas experiências me ajudaram a desenvolver habilidades de gestão de projetos e liderança de equipes.
+Além de programação, eu tenho uma ampla experiência em ensino, tendo trabalhado como professora de teatro e história. Essas experiências me ajudaram a desenvolver habilidades de comunicação e colaboração em equipe.
 
 Minha jornada em programação
-Estou estudando programação desde março de 2021, com foco em desenvolvimento web e mobile. Meus conhecimentos incluem HTML, CSS, JavaScript e React, e estou sempre buscando aprender mais.
+Desde março de 2021, venho estudando programação com foco em desenvolvimento web e mobile. Meus conhecimentos incluem HTML, CSS, JavaScript e React. Também estudei lógica de programação, o que me deu uma sólida compreensão dos fundamentos da programação.
+
+Estou sempre buscando aprender mais e estou aberta a desafios que me permitam crescer e me desenvolver como profissional.
 
 Habilidades
 HTML
 CSS
 JavaScript
 React
-Gestão de Projetos
-GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=[StefanyScherrer]&show_icons=true&theme=radical)
-
+Lógica de Programação
 Idiomas
 Português (nativo)
 Inglês (avançado)
