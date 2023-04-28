@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil do GitHub!
 
-Olá, meu nome é [Stefany Scherrer] e sou uma desenvolvedora junior apaixonada por tecnologia. Meu objetivo é construir soluções inovadoras e criar experiências únicas para os usuários.
+Olá, meu nome é Stefany Scherrer e sou uma desenvolvedora junior apaixonada por tecnologia. Meu objetivo é construir soluções inovadoras e criar experiências únicas para os usuários.
 
 ## Sobre mim
 
