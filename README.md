@@ -1,16 +1,16 @@
-# Bem-vindo ao meu perfil do GitHub!
+# Seja bem vinda(o)!
 
-Olá, meu nome é Stefany Scherrer e sou uma desenvolvedora junior apaixonada por tecnologia. Meu objetivo é construir soluções inovadoras e criar experiências únicas para os usuários.
+Olá, meu nome é Stefany Scherrer e sou uma desenvolvedora junior apaixonada por tecnologia. Meu objetivo é construir soluções inovadoras e criar experiências únicas para os usuários 🎯.
 
 ## Sobre mim
 
-Sou formada em Direito e sempre tive uma paixão por tecnologia. Enquanto estudava na Universidade Federal do Espírito Santo, fundei uma liga de tecnologia e e inovação e, por meio dela, organizava hackathons em eventos. Foi a partir dessas experiências que decidi me aprofundar em programação.
+Sou formada em Direito e sempre tive uma paixão por tecnologia. Enquanto estudava na Universidade Federal do Espírito Santo, fundei uma **liga de negócios, inovação e tecnologia** e, por meio dela, organizava **hackathons** em eventos. Foi a partir dessas experiências que decidi me aprofundar em programação.
 
-Além de programação,também tenho experiência como supervisora de uma equipe de marketing e vendas, como product manager e como professora de teatro, além de outras áreas. Essas experiências me ajudaram a desenvolver habilidades de gestão de projetos, comunicação, colaboração em equipe e liderança.
+Além de programação,também tenho experiência como supervisora de uma equipe de marketing e vendas, como product manager, designer e como professora de teatro, além de outras áreas. Essas experiências me ajudaram a desenvolver habilidades de **gestão de projetos, comunicação, colaboração em equipe e liderança**.
 
 ## Minha jornada em programação
 
-Estou estudando programação desde março de 2021, com foco em desenvolvimento web e mobile. Amo estudar sobre tecnologia e diversos outros assuntos, por isto estou sempre buscando aprender mais.
+Estou estudando programação desde março de 2021, com foco em desenvolvimento web e mobile 💻📱. Amo estudar sobre tecnologia e diversos outros assuntos, por isto estou *sempre* buscando aprender mais.
 
 ## Tecnologias e Ferramentas
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
@@ -34,7 +34,7 @@ Estou estudando programação desde março de 2021, com foco em desenvolvimento 
 
 ## Contato
 
-Se você gostou do que viu aqui ou ficou com alguma dúvida, sinta-se à vontade para entrar em contato comigo. Vamos criar algo incrível juntos!
+Se você gostou do que viu aqui ou ficou com alguma dúvida, sinta-se à vontade para entrar em contato comigo. Vamos criar algo incrível juntos! 🛠️ 💡
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefany-scherrer/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5527996926990)
