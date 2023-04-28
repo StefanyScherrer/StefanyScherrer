@@ -35,5 +35,5 @@ Estou estudando programação desde março de 2021, com foco em desenvolvimento 
 
 Se você gostou do que viu aqui, sinta-se à vontade para entrar em contato comigo. Vamos criar algo incrível juntos!
 
-- LinkedIn: [seu perfil do LinkedIn]
-- Email: [seu endereço de email]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefany-scherrer/)
+
