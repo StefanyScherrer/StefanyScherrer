@@ -1,16 +1,27 @@
-### Hi there 👋
+Olá, meu nome é [seu nome] e sou uma desenvolvedora junior apaixonada por tecnologia. Meu objetivo é construir soluções inovadoras e criar experiências únicas para os usuários.
 
-<!--
-**StefanyScherrer/StefanyScherrer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mim
+Desde muito jovem, desenvolvi um grande interesse em aprender sobre diversos assuntos. Estou sempre buscando novas formas de aprimorar meus conhecimentos, sejam eles relacionados à programação ou não.
 
-Here are some ideas to get you started:
+Também tenho experiência em liderança, tendo atuado como supervisora de uma equipe de marketing e vendas e como product manager em uma startup. Essas experiências me ajudaram a desenvolver habilidades de gestão de projetos e liderança de equipes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Minha jornada em programação
+Estou estudando programação desde março de 2021, com foco em desenvolvimento web e mobile. Meus conhecimentos incluem HTML, CSS, JavaScript e React, e estou sempre buscando aprender mais.
+
+Habilidades
+HTML
+CSS
+JavaScript
+React
+Gestão de Projetos
+GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=[StefanyScherrer]&show_icons=true&theme=radical)
+
+Idiomas
+Português (nativo)
+Inglês (avançado)
+Contato
+Se você gostou do que viu aqui, sinta-se à vontade para entrar em contato comigo. Vamos criar algo incrível juntos!
+
+LinkedIn: [seu perfil do LinkedIn]
+Email: [seu endereço de email]
