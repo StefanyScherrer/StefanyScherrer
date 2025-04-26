@@ -4,7 +4,7 @@ Olá, meu nome é Stefany Scherrer e sou uma desenvolvedora junior apaixonada po
 
 ## Sobre mim
 
-Sou formada em Direito e sempre tive uma paixão por tecnologia. Enquanto estudava na Universidade Federal do Espírito Santo, fundei uma **liga de negócios, inovação e tecnologia** e, por meio dela, organizava **hackathons** em eventos. Foi a partir dessas experiências que decidi me aprofundar em programação.
+Sou formada em Direito e sempre tive uma paixão por tecnologia. Enquanto estudava na Universidade Federal do Espírito Santo, participei como co-fundadora de uma **liga de negócios, inovação e tecnologia** e, por meio dela, organizava **hackathons** em eventos. Foi a partir dessas experiências que decidi me aprofundar em programação.
 
 Além de programação,também tenho experiência como supervisora de uma equipe de marketing e vendas, como product manager, designer e como professora de teatro, além de outras áreas. Essas experiências me ajudaram a desenvolver habilidades de **gestão de projetos, comunicação, colaboração em equipe e liderança**.
 
